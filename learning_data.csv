@@ -1,0 +1,5 @@
+Course,Category,Status,Start Date,End Date,Notes
+Python Basics,Programming,Completed,01-06-25,07-06-25,Good intro
+Power BI Dashboards,Data Visualization,In Progress,01-07-25,,Working on charts
+Data Cleaning with Pandas,Data Science,Completed,05-07-25,10-07-25,Important for analysis
+BioPython Basis,Programming,In Progress,2025-07-29,,Working on sequence analysis examples
