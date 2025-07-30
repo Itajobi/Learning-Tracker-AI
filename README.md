@@ -14,11 +14,14 @@ This app is useful for students, self-learners, and professionals in continuous 
 
 ## Project Structure
 
+
 learning_tracker_ai/
-├── tracker.py          # Main Streamlit app
-├── requirements.txt    # Required Python packages
-├── README.md           # Project documentation
-└── data.csv            # Optional CSV for saved progress
+├── tracker.py             
+├── requirements.txt      
+├── README.md             
+└── data.csv              
+
+
 
 
 ##  Setup Instructions
@@ -39,8 +42,11 @@ learning_tracker_ai/
 
    streamlit run tracker.py
 
+
 ## ✍️ Author
-Olanireti Itajobi
+
+ Olanireti Itajobi
+
 Fellow ID: `FE/23/23595687`
 
 
