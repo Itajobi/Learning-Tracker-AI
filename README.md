@@ -9,10 +9,11 @@ It was developed as part of the AI-Powered Challenge for the 3MTT July Knowledge
 * Automatically saves and loads progress from a CSV file
 * Simple, clean, and interactive user interface
 
+This app is useful for students, self-learners, and professionals in continuous learning
+
 
 ## Project Structure
 
-```
 learning_tracker_ai/
 ├── tracker.py          # Main Streamlit app
 ├── requirements.txt    # Required Python packages
@@ -30,9 +31,11 @@ learning_tracker_ai/
 
 3. **Install required packages**
 
+   pip install streamlit pandas
+
    pip install -r requirements.txt
   
-4. **Start the app**
+5. **Start the app**
 
    streamlit run tracker.py
 
