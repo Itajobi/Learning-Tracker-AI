@@ -15,10 +15,14 @@ This app is useful for students, self-learners, and professionals in continuous 
 ## Project Structure
 
 
-learning_tracker_ai/
+learning_tracker_ai
+
 ├── tracker.py             
+
 ├── requirements.txt      
+
 ├── README.md             
+
 └── data.csv              
 
 
